@@ -2,7 +2,7 @@
 #   and calling publishing (with overwrite) to update the feature service
 #
 
-import ConfigParser
+import configparser
 import ast
 import os
 import sys
