@@ -20,8 +20,9 @@ params = {'where': 'datetime >'+d, 'type': 'Aid Response'}
 header = {'X-App-Token': app_token}
 resp = requests.request('GET', url=url, headers=header) #, params=params)
 
-with open('incident.json', 'w') as outfile:
-    outfile.write(json.dumps(json.JSONDecoder().decode(resp.text)))
+with open('data/fire_uncoded.json', 'w') as outfile:
+    json.dump(resp.text, outfile)  # This dumps text as is
+    #outfile.write(json.dumps(json.JSONDecoder().decode(resp.text)))  # This formats text into json
 
 
 
