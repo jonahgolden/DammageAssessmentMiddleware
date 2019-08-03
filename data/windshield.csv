@@ -1,501 +1,501 @@
 ,intersection,classification,type
-0,47TH AVE NE AND NE 75TH ST,red,medical emergency
-1,BEACON WR AVE S AND S HOLDEN ST,red,fire
-2,15TH AVE NE AND LAKE CITY WAY NE,yellow,power line down
-3,32ND AVE SW AND SW 106TH ST,green,fire
-4,INTERLAKE AVE N AND N 107TH ST,green,partial building collapse
-5,17TH AVE NW AND NW 62ND ST,yellow,road blockage
-6,8TH AVE NW AND NW 77TH N ST,green,partial building collapse
-7,48TH AVE S AND S HUDSON E ST,red,partial building collapse
-8,LINDEN AVE N AND N 80TH ST,yellow,medical emergency
-9,40TH AVE S AND DEAD END,yellow,road blockage
-10,FREMONT AVE N AND N 75TH ST,green,power line down
-11,35TH AVE NE AND NE 143RD ST,green,building collapse
-12,34TH AVE SW AND SW 114TH ST,yellow,building collapse
-13,NE MAPLE LEAF PL AND DEAD END,yellow,power line down
-14,20TH AVE SW AND SW WEBSTER E ST,red,partial building collapse
-15,25TH AVE E AND E NEWTON ST,green,road blockage
-16,S RYAN ST AND DEAD END 3 ,green,partial building collapse
-17,E EATON PL AND DEAD END,green,medical emergency
-18,38TH AVE NE AND NE 90TH ST,green,power line down
-19,21ST AVE S AND S MCCLELLAN S ST,green,building collapse
-20,14TH AVE AND E ALDER ST,green,fire
-21,30TH AVE NW AND NW 61ST ST,green,partial building collapse
-22,S HUDSON ST AND DEAD END 4,yellow,partial building collapse
-23,20TH AVE S AND S MCCLELLAN ST,green,medical emergency
-24,8TH AVE NW AND NW 60TH ST,red,fire
-25,2ND AVE NW AND NW 47TH N ST,green,fire
-26,MALDEN AVE E AND E MERCER ST,yellow,building collapse
-27,34TH AVE E AND E MADISON ST,red,building collapse
-28,NE 35TH ST AND DEAD END 2,red,medical emergency
-29,42ND AVE S AND S EDMUNDS ST,yellow,fire
-30,FAUNTLEROY WAY SW AND SW OTHELLO ST,yellow,building collapse
-31,NE 144TH ST AND DEAD END,green,medical emergency
-32,49TH AVE S AND S ROSE ST,green,medical emergency
-33,SW AVALON WAY AND SW ORLEANS ST,green,road blockage
-34,DAYTON AVE N AND N 36TH ST,red,fire
-35,S RAYMOND ST AND DEAD END 6,green,building collapse
-36,28TH AVE S AND S WARSAW ST,red,partial building collapse
-37,5TH AVE NE AND 50TH ST ON RP,green,building collapse
-38,E LYNN ST AND DEAD END,red,building collapse
-39,36TH AVE NE AND NE 125TH ST,yellow,partial building collapse
-40,HILLCREST AVE SW AND SW ORLEANS ST,green,road blockage
-41,YAKIMA AVE S AND DEAD END,green,partial building collapse
-42,46TH AVE S AND S AUSTIN ST,red,road blockage
-43,2ND AVE NW AND NW 67TH ST,green,partial building collapse
-44,MARY AVE NW AND NW 70TH E ST,green,power line down
-45,PHINNEY AVE N AND N 61ST ST,green,road blockage
-46,40TH AVE NE AND NE 100TH ST,green,power line down
-47,59TH AVE S AND DEAD END 2 ,red,power line down
-48,EASTLAKE AVE E AND E ROANOKE ST,yellow,power line down
-49,44TH AVE S AND S TRENTON ST,red,road blockage
-50,46TH AVE S AND S HUDSON E ST,yellow,fire
-51,35TH AVE NE AND NE 90TH ST,red,building collapse
-52,28TH AVE E AND E VALLEY ST,yellow,power line down
-53,S HOLGATE BR AND S HOLGATE ST,red,medical emergency
-54,NE 127TH ST AND DEAD END 1,red,power line down
-55,53RD AVE NE AND NE 86TH ST,red,power line down
-56,28TH AVE S AND S JUNEAU ST,yellow,partial building collapse
-57,45TH AVE SW AND DEAD END 3,red,partial building collapse
-58,18TH AVE S AND SWIFT AVE S,red,fire
-59,12TH AVE S AND S SNOQUALMIE ST,green,fire
-60,31ST AVE S AND S LANDER ST,red,fire
-61,30TH AVE AND E OLIVE ST,green,fire
-62,MERIDIAN AVE N AND N 128TH ST,green,building collapse
-63,FAIRVIEW NR AVE N AND WARD ST,green,road blockage
-64,S AUGUSTA ST AND DEAD END,red,road blockage
-65,RAINIER AVE S AND S DIRECTOR N ST,yellow,partial building collapse
-66,QUEEN ANNE AVE N AND REPUBLICAN ST,yellow,fire
-67,W ARMORY WAY AND DEAD END,red,building collapse
-68,1ST AVE NE AND NE 52ND ST,yellow,partial building collapse
-69,LAKEVIEW BV OFF RP AND E GARFIELD ST,red,partial building collapse
-70,MELROSE AVE AND E OLIVE PL,red,fire
-71,SW WINTHROP ST AND DEAD END 1 ,yellow,partial building collapse
-72,7TH AVE W AND W DRAVUS ST,yellow,building collapse
-73,WABASH AVE S AND S ROSE ST,yellow,medical emergency
-74,AURORA AVE N AND N 104TH ST,yellow,building collapse
-75,WOODLAWN AVE NE AND NE 71ST ST,red,partial building collapse
-76,PHINNEY AVE N AND N 120TH ST,red,power line down
-77,JAMES ST AND TERRY AVE,red,building collapse
-78,UTAH AVE S AND S ATLANTIC ST,red,medical emergency
-79,3RD AVE AND VIRGINIA ST,yellow,power line down
-80,HIRAM PL NE AND DEAD END 1,yellow,fire
-81,ALOHA ST AND TAYLOR AVE N,yellow,medical emergency
-82,40TH AVE W AND CRESTMONT PL W,red,partial building collapse
-83,S LUCILE ST AND DEAD END 1,green,building collapse
-84,36TH AVE W AND LAWTON LN W,yellow,partial building collapse
-85,MERIDIAN PL N AND N 92ND ST,red,medical emergency
-86,NW 39TH ST AND DEAD END,red,partial building collapse
-87,32 UPPER AVE S AND S IRVING ST,red,power line down
-88,VALMAY AVE NW AND NW 105TH ST,yellow,medical emergency
-89,ALPINE WAY NW AND NW CULBERTSON DR,red,road blockage
-90,26TH AVE AND E PIKE ST,red,building collapse
-91,53RD AVE S AND S BANGOR ST,yellow,medical emergency
-92,33RD AVE SW AND SW 97TH ST,red,building collapse
-93,19TH AVE NE AND NE 70TH ST,red,road blockage
-94,S 120TH ST AND DEAD END,yellow,power line down
-95,BRADNER PL S AND S GRAND ST,red,power line down
-96,FRANKLIN AVE E AND E LYNN ST,green,building collapse
-97,FAUNTLEROY WAY SW AND FAUNTLEROY WR S WAY SW,red,road blockage
-98,BURKE AVE N AND N 137TH ST,yellow,medical emergency
-99,S HORTON ST AND DEAD END 2,red,building collapse
-100,47TH AVE S AND S JUNEAU ST,green,road blockage
-101,14TH AVE S AND S FOREST ST,red,partial building collapse
-102,5TH AVE W AND W GALER W ST,yellow,medical emergency
-103,17TH AVE NE AND NE 75TH E ST,red,partial building collapse
-104,34TH AVE SW AND SW 97TH ST,yellow,partial building collapse
-105,7TH AVE AND PINE ST,green,road blockage
-106,17TH AVE SW AND SW DAWSON ST,yellow,building collapse
-107,21ST AVE NE AND NE 83RD ST,yellow,medical emergency
-108,BROOKLYN AVE NE AND NE 56TH ST,green,medical emergency
-109,14TH AVE NE AND NE 65TH ST,red,partial building collapse
-110,30TH AVE NW AND NW 61ST ST,green,power line down
-111,28TH AVE NW AND NW 86TH ST,red,road blockage
-112,FREMONT AVE N AND N 80TH ST,yellow,road blockage
-113,27TH AVE NE AND NE 54TH N ST,green,building collapse
-114,4TH AVE AND BLANCHARD ST,yellow,power line down
-115,DETROIT AVE SW AND SW MYRTLE ST,green,building collapse
-116,23RD AVE NE AND NE 128TH ST,green,medical emergency
-117,AIRPORT WAY S AND S STEVENS ST,yellow,partial building collapse
-118,WINGARD CT N AND N 137TH ST,green,building collapse
-119,9TH AVE W AND W GARFIELD ST,red,road blockage
-120,7TH AVE AND DEXTER AVE,green,medical emergency
-121,GREEN LAKE WAY N AND N 50TH ST,red,fire
-122,2ND AVE AND CLAY ST,green,building collapse
-123,THORNDYKE AVE W AND W HAYES ST,red,partial building collapse
-124,SW 104TH ST AND DEAD END,yellow,power line down
-125,23RD AVE NW AND NW 89TH PL,green,medical emergency
-126,8 LOWER AVE AND UNIVERSITY ST,red,medical emergency
-127,12TH AVE S AND S HANFORD ST,red,road blockage
-128,4TH AVE NW AND NW 110TH ST,red,power line down
-129,22ND AVE W AND THORNDYKE AVE W,yellow,partial building collapse
-130,5TH AVE S AND S SPOKANE NR ST,green,partial building collapse
-131,38TH AVE SW AND SW TRENTON ST,yellow,power line down
-132,16TH AVE S AND S ATLANTIC ST,red,partial building collapse
-133,6TH AVE NW AND NW 126TH PL,red,medical emergency
-134,27TH AVE NE AND NE 80TH ST,yellow,road blockage
-135,8TH AVE NE AND NE NORTHLAKE WAY,yellow,road blockage
-136,NE CAMPUS PY OFF RP AND NE CAMPUS EB PY,red,medical emergency
-137,2ND AVE NE AND ROOSEVELT WAY NE,red,fire
-138,3RD AVE NW AND NW 44TH S ST,green,power line down
-139,I5 EXPRESS AND I5 EXPRESS LAKE CITY RP,green,building collapse
-140,LATONA AVE NE AND NE 75TH ST,green,partial building collapse
-141,NORWOOD PL AND RANDOLPH PL,yellow,road blockage
-142,23RD AVE AND E OLIVE N ST,green,road blockage
-143,2ND AVE NE AND NE 46TH ST,red,power line down
-144,BEACON ER AVE S AND S ANGELINE ST,yellow,fire
-145,SR509 NB CLOVERDALE RP AND SR509 NB,green,building collapse
-146,GALER ST AND WARREN E AVE N,red,medical emergency
-147,SUNNYSIDE AVE N AND N 75TH ST,green,road blockage
-148,34TH AVE S AND DEAD END 1,green,partial building collapse
-149,MARY AVE NW AND NW 73RD ST,red,power line down
-150,I5 NB COLLECTOR AND JAMES ST OFF RP,green,fire
-151,1ST AVE S AND S HUDSON ST,red,fire
-152,8TH AVE AND MADISON ST,red,building collapse
-153,6TH AVE S AND S FIDALGO ST,yellow,partial building collapse
-154,8TH AVE NE AND NE 103RD ST,green,power line down
-155,WOODLAWN AVE N AND N 50TH W ST,green,medical emergency
-156,53RD AVE SW AND ALKI AVE SW,yellow,road blockage
-157,8TH AVE NW AND NW 132ND ST,green,power line down
-158,24TH AVE AND E HOWELL ST,red,fire
-159,25TH AVE E AND E NEWTON ST,yellow,road blockage
-160,ARROYO BEACH PL SW AND SW ARROYO DR,yellow,building collapse
-161,I5 SB AND 130TH ST ON RP,yellow,medical emergency
-162,5TH AVE NE AND NE 75TH ST,yellow,medical emergency
-163,MERIDIAN AVE N AND N 62ND ST,yellow,building collapse
-164,14TH AVE NW AND NW 75TH E ST,red,building collapse
-165,27TH AVE S AND S HUDSON ST,green,fire
-166,57TH AVE S AND S WALLACE ST,yellow,power line down
-167,NW ESPLANADE AND DEAD END,yellow,partial building collapse
-168,16TH AVE S AND S BENNETT ST,green,power line down
-169,E COLUMBIA ST AND DEAD END 3,green,building collapse
-170,40TH AVE SW AND SW BRANDON ST,yellow,power line down
-171,37TH AVE SW AND SW AUSTIN ST,yellow,road blockage
-172,BOREN AVE AND HOWELL ST,red,medical emergency
-173,38TH AVE NE AND NE 98TH ST,red,fire
-174,22ND AVE NE AND NE 140TH N ST,green,power line down
-175,NE 42ND ST AND DEAD END 2,green,road blockage
-176,BOWEN PL S AND S DAWSON ST,yellow,medical emergency
-177,8TH AVE NW AND NW 62ND N ST,green,medical emergency
-178,15TH AVE NE AND NE 103RD ST,yellow,medical emergency
-179,7TH AVE NE AND NE NORTHLAKE PL,green,partial building collapse
-180,30TH AVE W AND W THURMAN ST,red,building collapse
-181,8TH AVE N AND ALOHA ST,red,building collapse
-182,9TH AVE W AND W FULTON ST,red,medical emergency
-183,NW 100TH ST AND DEAD END 2,green,road blockage
-184,NE 71ST ST AND DEAD END,yellow,road blockage
-185,8TH AVE W AND W FULTON ST,yellow,power line down
-186,38TH AVE NE AND NE 80TH ST,green,fire
-187,31ST AVE NE AND NE 85TH ST,red,power line down
-188,DUWAMISH AVE S AND EAST MARGINAL SB WAY S,yellow,medical emergency
-189,FREMONT AVE N AND N 82ND ST,yellow,power line down
-190,1ST AVE NW AND PALMER E DR NW,red,road blockage
-191,W SEA BR WB - 6TH AV S RP AND S SPOKANE CR ST,green,road blockage
-192,5TH AVE NE AND NE 103RD ST,yellow,medical emergency
-193,30TH AVE S AND S BRIGHTON ST,green,power line down
-194,BELGROVE CT NW AND NW MILFORD WAY,red,road blockage
-195,46TH AVE SW AND SW WILDWOOD PL,yellow,road blockage
-196,WALNUT AVE SW AND SW HOLGATE E ST,green,fire
-197,15TH AVE E AND DEAD END,yellow,road blockage
-198,BEACON ER AVE S AND S THISTLE ST,red,medical emergency
-199,9TH AVE W AND W NEWELL ST,red,fire
-200,40TH AVE SW AND SW CLOVERDALE ST,green,medical emergency
-201,ROOSEVELT WAY N AND WALLINGFORD AVE N,yellow,partial building collapse
-202,FAIRVIEW AVE N AND SLUSC N OF WARD,green,building collapse
-203,5TH AVE NE AND NE NORTHGATE WAY,green,road blockage
-204,39TH AVE SW AND SW 104TH ST,red,partial building collapse
-205,W BERTONA ST AND W NICKERSON ST,red,fire
-206,LYNN ST AND DEAD END,green,partial building collapse
-207,19TH AVE NW AND NW 95TH ST,red,power line down
-208,CALIFORNIA AVE SW AND SW PORTLAND ST,red,fire
-209,56TH AVE SW AND SW ANDOVER ST,green,fire
-210,MERIDIAN AVE N AND N 113TH ST,red,fire
-211,32ND AVE NE AND NE 70TH W ST,yellow,fire
-212,30TH AVE S AND DEAD END 3,red,power line down
-213,6TH AVE NW AND NW 95TH ST,yellow,partial building collapse
-214,BELMONT AVE E AND E THOMAS ST,yellow,medical emergency
-215,DUWAMISH RIVER TRL AND NP RR,green,partial building collapse
-216,3RD AVE N AND HOWE ST,yellow,power line down
-217,38TH AVE SW AND SW WILLOW ST,green,fire
-218,36TH AVE NE AND NE BLAKELEY ST,red,fire
-219,31ST AVE SW AND SW MYRTLE W ST,red,medical emergency
-220,18TH AVE NE AND NE 50TH ST,yellow,road blockage
-221,21ST AVE S AND S STEVENS S ST,yellow,road blockage
-222,I5 SB COLLECTOR AND I5 SB - I90 EB ON RP,green,road blockage
-223,26TH AVE SW AND SW GENESEE ST,green,medical emergency
-224,N DOROTHY PL AND DEAD END,green,medical emergency
-225,M L KING JR WAY E AND E MADISON ST,yellow,road blockage
-226,15TH AVE NE AND NE 58TH ST,green,road blockage
-227,37TH AVE E AND E FLORENCE CT,green,partial building collapse
-228,S ELMGROVE ST AND DEAD END 1,yellow,medical emergency
-229,5TH AVE NW AND NW MARKET ST,red,road blockage
-230,12TH AVE AND E REMINGTON CT,red,building collapse
-231,MERCER SR ST AND WESTLAKE AVE N,yellow,fire
-232,15TH AVE NE AND NE 62ND ST,green,medical emergency
-233,41ST AVE SW AND SW CLOVERDALE E ST,red,medical emergency
-234,OCCIDENTAL AVE S AND S FOREST ST,green,partial building collapse
-235,11TH AVE NE AND DEAD END 2,red,partial building collapse
-236,21ST AVE S AND S HINDS ST,yellow,road blockage
-237,DUWAMISH RIVER TRL AND S HENDERSON ST,red,partial building collapse
-238,ASHWORTH AVE N AND DEAD END 2,yellow,road blockage
-239,18TH AVE NW AND NW 80TH ST,yellow,power line down
-240,17TH AVE NE AND DEAD END 1,red,partial building collapse
-241,41ST AVE SW AND SW OREGON ST,red,medical emergency
-242,12TH AVE NW AND NW 132ND ST,green,fire
-243,SEWARD PARK AVE S AND S BRIGHTON ST,green,fire
-244,4TH AVE S AND W SEA BR EB 4 AV OFF RP,red,building collapse
-245,6TH AVE N AND WARD ST,red,medical emergency
-246,29TH AVE S AND S WALKER ST,green,medical emergency
-247,24TH AVE S AND S MCCLELLAN ST,green,building collapse
-248,42ND AVE W AND W BARRETT ST,green,fire
-249,ROOSEVELT WAY NE AND NE 66TH ST,green,medical emergency
-250,11TH AVE NE AND NE 45TH ST,green,road blockage
-251,SAND POINT WAY NE AND NE 50TH ST,red,partial building collapse
-252,FREMONT AVE N AND N 73RD ST,green,partial building collapse
-253,11TH AVE SW AND SW HOLDEN ST,red,fire
-254,JILL PL S AND S NEVADA ST,green,building collapse
-255,30TH AVE SW AND SW CAMBRIDGE S ST,red,fire
-256,7TH AVE NW AND NW 125TH ST,red,partial building collapse
-257,W SEA BR WB - 6TH AV S RP AND S SPOKANE CR ST,green,partial building collapse
-258,20TH AVE S AND S SPOKANE ST,red,road blockage
-259,21ST AVE AND E JAMES ST,green,building collapse
-260,22ND AVE AND E MARION ST,yellow,partial building collapse
-261,21ST AVE E AND E REPUBLICAN ST,green,partial building collapse
-262,WALNUT AVE SW AND SW GRAYSON ST,yellow,medical emergency
-263,S HOLGATE ST AND DEAD END 2,red,fire
-264,AIRPORT WAY S AND S ADAMS ST,yellow,power line down
-265,23RD AVE E AND E HARRISON ST,yellow,fire
-266,S DEDHAM PL AND DEAD END,yellow,partial building collapse
-267,23RD AVE NW AND NW 95TH ST,red,road blockage
-268,31ST AVE NE AND NE 77TH ST,red,medical emergency
-269,AURORA AVE N AND N 62ND ST,red,fire
-270,AURORA AVE N AND N 75TH ST,green,power line down
-271,25TH AVE E AND E LEE ST,yellow,building collapse
-272,35TH AVE SW AND SW ANDOVER S ST,yellow,building collapse
-273,30TH AVE S AND S GRAND W ST,green,fire
-274,AIRPORT WAY S AND S DORIS ST,red,medical emergency
-275,CORNELL AVE S AND S RYAN ST,yellow,fire
-276,E MARION ST AND DEAD END 3,green,partial building collapse
-277,S IRVING ST AND DEAD END,red,power line down
-278,WEST SEATTLE BR EB AND ALASKAN WY VI NB ON RP,green,medical emergency
-279,56TH AVE NE AND NE 69TH ST,red,power line down
-280,23RD AVE E AND E PROSPECT ST,yellow,power line down
-281,12TH AVE NE AND NE 65TH ST,yellow,power line down
-282,NW 53RD ST AND DEAD END,yellow,building collapse
-283,S ORCAS ST AND DEAD END 2,green,building collapse
-284,4TH AVE W AND W FULTON ST,green,road blockage
-285,32ND AVE NE AND NE 117TH ST,yellow,partial building collapse
-286,8TH AVE S AND S DONOVAN ST,red,road blockage
-287,HARVARD AVE E AND E BOSTON ST,red,power line down
-288,FREMONT AVE N AND N 103RD ST,yellow,medical emergency
-289,WOODLAWN AVE NE AND NE 73RD ST,red,building collapse
-290,CALIFORNIA LN SW AND DEAD END,green,partial building collapse
-291,BELLA VISTA AVE S AND S HORTON ST,red,medical emergency
-292,EAST GREEN LAKE DR N AND NE RAVENNA EB BV,yellow,power line down
-293,ROOSEVELT WAY NE AND NE 43RD N ST,yellow,road blockage
-294,WOODLAND PARK AVE N AND N 35TH ST,yellow,medical emergency
-295,20TH AVE NE AND NE 130TH ST,yellow,fire
-296,20TH AVE S AND S INGERSOLL PL,yellow,fire
-297,EAST GREEN LAKE DR N AND NE 72ND ST,red,fire
-298,38TH AVE SW AND BELVIDERE AVE SW,red,medical emergency
-299,45TH AVE NE AND BURKE GILMAN TRL,red,medical emergency
-300,FAIRVIEW AVE N AND MERCER S SR ST,red,road blockage
-301,7TH AVE NW AND NW 58TH ST,green,partial building collapse
-302,31ST AVE S AND S NORMAN ST,yellow,building collapse
-303,MIDVALE AVE N AND N 103RD ST,yellow,building collapse
-304,AIRPORT WAY S AND S HORTON N ST,green,building collapse
-305,1ST AVE NW AND DEAD END 3,green,building collapse
-306,23RD AVE NW AND NW 86TH ST,green,fire
-307,I5 EXPRESS AND I5 EXPRESS NB ON RP,green,road blockage
-308,17TH AVE S AND S FERDINAND ST,green,fire
-309,9 UPPER AVE W AND W BLAINE ST,yellow,building collapse
-310,30TH AVE NE AND LAKE CITY S WAY NE,yellow,building collapse
-311,17TH AVE S AND S SHELTON ST,yellow,power line down
-312,LATONA AVE NE AND NE 82ND N ST,yellow,fire
-313,16TH AVE S AND S JUNEAU ST,yellow,partial building collapse
-314,32ND AVE S AND DEAD END 7,green,power line down
-315,11TH AVE W AND SOUND VIEW S TR W,yellow,fire
-316,S BRANDON ST AND DEAD END 4,green,road blockage
-317,5TH AVE NE AND NE 103RD ST,yellow,road blockage
-318,35TH AVE W AND MONTVALE CT W,red,fire
-319,BURKE GILMAN TRL AND MONTLAKE CUT CONNCTR TRL,yellow,partial building collapse
-320,DURLAND AVE NE AND NE 115TH ST,yellow,building collapse
-321,20TH AVE SW AND DEAD END 1 ,red,road blockage
-322,44TH AVE S AND S JUNEAU ST,red,partial building collapse
-323,43RD AVE NE AND NE 70TH E ST,red,partial building collapse
-324,8TH AVE NW AND NW 74TH ST,green,partial building collapse
-325,26TH AVE E AND E VALLEY ST,green,power line down
-326,54TH PL SW AND WICKSTROM PL SW,green,building collapse
-327,RAINIER AVE S AND S ROSE N ST,green,fire
-328,38TH AVE S AND S CHICAGO ST,yellow,power line down
-329,31ST AVE S AND S RAYMOND ST,red,medical emergency
-330,HARVARD AVE E AND E OLIVE WAY,red,power line down
-331,26TH AVE NE AND NE 65TH ST,green,building collapse
-332,NE 42ND ST AND DEAD END 4,yellow,road blockage
-333,21ST AVE E AND E JOHN ST,green,road blockage
-334,32ND AVE W AND W WHEELER ST,yellow,partial building collapse
-335,1ST AVE NW AND NW 65TH ST,green,power line down
-336,14TH AVE W AND W HOWE ST,yellow,fire
-337,24TH AVE NW AND NW 67TH ST,red,medical emergency
-338,37TH AVE E AND E PROSPECT ST,red,medical emergency
-339,34TH AVE S AND DEAD END 3,red,road blockage
-340,DAYTON AVE N AND N 102ND ST,yellow,road blockage
-341,5TH AVE NE AND NE 44TH ST,yellow,fire
-342,44TH AVE SW AND SW HOLLY ST,green,road blockage
-343,ROSEMONT PL W AND WEST VIEWMONT WAY W,green,power line down
-344,48TH AVE SW AND HOLLY CT SW,red,fire
-345,43RD AVE NE AND NE 38TH ST,green,power line down
-346,15TH AVE NE AND COWEN PL NE,yellow,power line down
-347,13TH AVE S AND S CHARLESTOWN ST,red,power line down
-348,35TH PL NW AND NW 61ST ST,red,road blockage
-349,57TH AVE S AND S PRENTICE ST,red,fire
-350,PUGET WAY SW AND DEAD END,yellow,fire
-351,CROCKETT ST AND DEAD END,red,medical emergency
-352,LATONA AVE NE AND NE 40 UPPER ST,red,fire
-353,LINCOLN PARK WAY SW AND MURRAY AVE SW,red,medical emergency
-354,45TH AVE NE AND BURKE GILMAN TRL,yellow,road blockage
-355,4TH AVE S AND S SPOKANE NR ST,green,fire
-356,24TH AVE E AND E WARD ST,yellow,medical emergency
-357,6TH AVE W AND W CROCKETT ST,red,road blockage
-358,2ND AVE AND DENNY WAY,yellow,road blockage
-359,7TH AVE NE AND NE 42ND ST,red,partial building collapse
-360,BEACH DR SW AND BENTON PL SW,red,power line down
-361,FRANKLIN PL E AND E NEWTON LOWER ST,yellow,medical emergency
-362,M L KING JR WR WAY S AND S LUCILE ST,green,fire
-363,22ND AVE E AND DEAD END,green,medical emergency
-364,VICTORY LN NE AND NE 108TH ST,yellow,road blockage
-365,UNIVERSITY BR AND POINT A,green,partial building collapse
-366,LAKE CITY WAY NE AND NE 91ST ST,green,fire
-367,DELRIDGE WAY SW AND SW CAMBRIDGE ST,yellow,road blockage
-368,24TH AVE S AND S KING S ST,red,medical emergency
-369,NE 96TH ST AND DEAD END 7,red,road blockage
-370,4TH AVE NE AND NE 63RD ST,green,building collapse
-371,RIVIERA PL NE AND CITY LIMITS,yellow,medical emergency
-372,SENECA ST AND E UNION ST,yellow,road blockage
-373,46TH AVE SW AND SW BRACE POINT DR,green,building collapse
-374,S DEAN ST AND DEAD END W,yellow,building collapse
-375,8TH AVE NW AND NW 65TH ST,red,medical emergency
-376,MERIDIAN AVE N AND N 47TH ST,green,medical emergency
-377,34TH AVE W AND W HOWE ST,green,road blockage
-378,ALKI TRL AND DUWAMISH HEAD,red,medical emergency
-379,24TH PL S AND S FERDINAND ST,red,fire
-380,48TH AVE SW AND SW SPOKANE ST,red,fire
-381,ROOSEVELT WAY NE AND NE 75TH ST,red,building collapse
-382,28TH AVE S AND S HOLGATE E ST,green,power line down
-383,WALLINGFORD AVE N AND N 97TH ST,yellow,fire
-384,4TH AVE NE AND NE 136TH ST,yellow,medical emergency
-385,EVERETT AVE E AND DEAD END,red,partial building collapse
-386,52ND AVE SW AND SW CHARLESTOWN E ST,red,fire
-387,56TH AVE SW AND HILLCREST AVE SW,green,medical emergency
-388,NE 127TH ST AND DEAD END 2,red,fire
-389,BELMONT AVE E AND SUMMIT N AVE E,red,building collapse
-390,SAND POINT WAY NE AND NE 93RD ST,red,power line down
-391,43RD AVE W AND DEAD END,green,partial building collapse
-392,BELLA VISTA AVE S AND S SPOKANE ST,red,fire
-393,GOODELL PL S AND S SPENCER ST,red,medical emergency
-394,38TH AVE NE AND NE 90TH ST,red,building collapse
-395,E CONOVER CT AND DEAD END,red,medical emergency
-396,WESTLAKE AVE N AND HALLADAY ST,red,partial building collapse
-397,I5 EXPRESS AND I5 EXPRESS I5 NB RP,red,fire
-398,E LOUISA ST AND DEAD END 2,yellow,medical emergency
-399,ALKI AVE SW AND MARINE AVE SW,yellow,medical emergency
-400,6TH AVE NW AND DEAD END 3,yellow,medical emergency
-401,31ST AVE AND E SPRING ST,yellow,partial building collapse
-402,2ND AVE AND VINE ST,yellow,medical emergency
-403,30TH AVE AND E MARION S ST,red,medical emergency
-404,51ST AVE S AND S ALASKA ST,yellow,building collapse
-405,27TH AVE NW AND NW 77TH ST,red,power line down
-406,ERIE AVE AND LAKE WASHINGTON BLVD,yellow,partial building collapse
-407,CHELAN AVE SW AND SW SPOKANE CR ST,red,road blockage
-408,51ST AVE S AND S LUCILE ST,yellow,road blockage
-409,38TH AVE NE AND NE 140TH ST,red,fire
-410,I90 EXPRESS AND I90 EXPRESS TUNNEL,red,medical emergency
-411,26TH AVE W AND GILMAN PL W,red,medical emergency
-412,26TH PL W AND W EMERSON ST,red,partial building collapse
-413,3RD AVE AND BLANCHARD ST,red,road blockage
-414,29TH AVE W AND W EMERSON W ST,green,medical emergency
-415,47TH AVE NE AND NE 39TH ST,red,partial building collapse
-416,E SPRUCE ST AND DEAD END 3,green,building collapse
-417,DENSMORE AVE N AND N 100TH W ST,yellow,building collapse
-418,27TH AVE SW AND SW THISTLE ST,green,medical emergency
-419,22ND AVE S AND S MAIN ST,green,road blockage
-420,4TH AVE S AND 4TH AV S VI,yellow,fire
-421,21ST AVE E AND E DENNY WAY,yellow,fire
-422,S HAZEL ST AND DEAD END 4,yellow,medical emergency
-423,42ND AVE SW AND SW 106TH ST,green,power line down
-424,51ST AVE S AND S BANGOR ST,green,power line down
-425,INTERLAKE AVE N AND N 95TH ST,red,medical emergency
-426,E DENNY WAY AND E OLIVE WAY,yellow,medical emergency
-427,BIGELOW AVE N AND CROCKETT ST,yellow,medical emergency
-428,32ND AVE S AND S DAWSON ST,green,road blockage
-429,11TH AVE W AND W CROCKETT ST,yellow,partial building collapse
-430,31ST WR AVE S AND S JUDKINS ST,red,fire
-431,NORTHROP PL SW AND SW THISTLE ST,green,partial building collapse
-432,RAVENNA PL NE AND NE 55TH ST,green,partial building collapse
-433,25TH AVE S AND S WALKER ST,green,road blockage
-434,DUMAR WAY SW AND SW AUSTIN ST,yellow,building collapse
-435,DALLAS AVE S AND S SOUTHERN ST,green,medical emergency
-436,53RD AVE S AND BEACON AVE S,yellow,partial building collapse
-437,ADMIRAL AVALON RP AND SW MANNING ST,red,power line down
-438,BLAINE ST AND DEAD END 1,green,road blockage
-439,7TH AVE W AND W BLAINE ST,green,fire
-440,12TH AVE NW AND NW 65TH ST,green,partial building collapse
-441,FREMONT AVE N AND N 44TH ST,yellow,medical emergency
-442,PIKE LOWER ST AND POST AL,green,partial building collapse
-443,21ST AVE E AND BOYER AVE E,green,medical emergency
-444,EARL AVE NW AND NW 65TH ST,yellow,building collapse
-445,3RD AVE NE AND NE 123RD ST,red,fire
-446,17TH SB AVE NE AND NE 50TH ST,red,medical emergency
-447,RADFORD AVE NW AND NW 100TH ST,green,partial building collapse
-448,LINDEN AVE N AND N 72ND ST,red,building collapse
-449,19TH AVE S AND S MAIN ST,yellow,fire
-450,YALE AVE E AND YALE PL E,red,medical emergency
-451,46TH AVE S AND 46 UPPER AVE S,green,fire
-452,CANTON AL S AND S KING ST,red,fire
-453,BELMONT AVE E AND E OLIVE WAY,green,power line down
-454,DENSMORE AVE N AND N 41ST ST,red,fire
-455,20TH AVE NW AND NW 62ND ST,yellow,power line down
-456,MAIDEN LN E AND DEAD END,green,road blockage
-457,32ND AVE SW AND SW ROXBURY ST,red,building collapse
-458,44TH AVE SW AND SW OTHELLO W ST,red,power line down
-459,45TH AVE SW AND SW JUNEAU ST,red,road blockage
-460,EARL AVE NW AND NW 67TH ST,red,building collapse
-461,S HUDSON ST AND DEAD END 4,red,fire
-462,AIRPORT WAY S AND CITY LIMITS N,green,partial building collapse
-463,CORLISS AVE N AND N 37TH ST,green,medical emergency
-464,19TH AVE NE AND NE 120TH ST,red,partial building collapse
-465,BONAIR PL SW AND DEAD END W,red,road blockage
-466,18TH AVE NW AND NW 80TH ST,red,power line down
-467,M L KING JR WAY AND E SPRING ST,green,building collapse
-468,LOYAL AVE NW AND VIEW AVE NW,green,road blockage
-469,44TH PL NE AND NE 70TH ST,yellow,fire
-470,EAST MARGINAL WAY S AND S HUDSON ST,red,power line down
-471,FREMONT AVE N AND N 107TH S ST,yellow,building collapse
-472,S HUDSON ST AND DEAD END 2,green,medical emergency
-473,27TH AVE S AND S HORTON ST,yellow,road blockage
-474,DENSMORE AVE N AND N 145TH ST,yellow,partial building collapse
-475,35TH AVE NE AND NE 96TH ST,yellow,medical emergency
-476,13TH AVE NW AND NW WOODBINE WAY,green,partial building collapse
-477,HARVARD AVE E AND E ROY W ST,red,partial building collapse
-478,ROOSEVELT WAY NE AND NE 86TH ST,yellow,fire
-479,19TH AVE S AND DEAD END 3,green,fire
-480,20TH AVE E AND WEST MONTLAKE PL E,red,power line down
-481,29TH AVE NE AND NE 68TH ST,green,medical emergency
-482,25TH AVE NW AND NW 83RD ST,yellow,power line down
-483,1ST AVE NW AND NW 43RD ST,green,power line down
-484,30TH AVE S AND S HOLLY PL,red,fire
-485,20TH AVE NE AND NE 107TH ST,yellow,road blockage
-486,64TH AVE S AND S RYAN ST,green,building collapse
-487,DAYTON AVE N AND N 102ND ST,green,road blockage
-488,43RD AVE W AND W GLENMONT LN,green,fire
-489,PASADENA PL NE AND NE 42ND ST,red,partial building collapse
-490,45TH AVE S AND S ANGELINE ST,red,medical emergency
-491,W BERTONA ST AND DEAD END 2,red,power line down
-492,14TH AVE W AND W BERTONA ST,green,power line down
-493,LAKESIDE AVE S AND S CHARLES ST,green,medical emergency
-494,18TH AVE E AND E CALHOUN ST,green,power line down
-495,CALIFORNIA AVE SW AND SW WEBSTER ST,yellow,partial building collapse
-496,31ST AVE SW AND SW CITY VIEW ST,yellow,power line down
-497,23RD PL NE AND NE 133RD ST,red,road blockage
-498,18TH AVE NW AND NW 89TH ST,yellow,medical emergency
-499,24TH AVE NW AND NW 64TH ST,yellow,road blockage
+0,46TH AVE SW AND SW THISTLE ST,yellow,building collapse
+1,26th Av Sw / Sw Barton St,green,power line down
+2,California Av Sw / Fauntleroy Way Sw,red,building collapse
+3,FAIRMOUNT AVE SW AND SW FOREST ST,green,power line down
+4,21ST AVE S AND COLUMBIA DR S,green,medical emergency
+5,ROOSEVELT WAY NE AND NE 125TH S ST,red,building collapse
+6,12TH AVE AND E SPRUCE ST,red,power line down
+7,California Av Sw / Fauntleroy Way Sw,red,partial building collapse
+8,24TH AVE S AND S MCCLELLAN ST,yellow,partial building collapse
+9,57TH AVE NE AND NE 65TH W ST,yellow,medical emergency
+10,NE 127TH ST / 15TH AV NE,green,power line down
+11,40TH AVE NE AND NE 109TH ST,yellow,road blockage
+12,3RD AVE S AND DEAD END 2 ,yellow,medical emergency
+13,46TH AVE S AND S THISTLE ST,yellow,medical emergency
+14,7th Av S / S Lane St,red,road blockage
+15,PHINNEY AVE N AND N 52ND ST,yellow,medical emergency
+16,12TH AVE NE AND NE 71ST ST,green,road blockage
+17,California Av Sw / Sw Beveridge Pl,green,building collapse
+18,S ALBRO PL AND S EDDY ST,yellow,medical emergency
+19,N 105th St / Dayton Av N,red,building collapse
+20,E Pike St / Broadway,green,medical emergency
+21,CLOVERDALE ST OFF RP AND S CLOVERDALE ST,red,medical emergency
+22,ASHWORTH AVE N AND N 55TH ST,red,fire
+23,16th Av S / S Washington St,red,fire
+24,12th Av S / S Jackson St,green,medical emergency
+25,RAVENNA AVE NE AND NE 54TH E ST,green,partial building collapse
+26,15th Av Ne / Ne 125th St,green,road blockage
+27,5th Av N / Thomas St,green,power line down
+28,3rd Av / Marion St,green,building collapse
+29,FAIRVIEW AVE N AND MERCER ST,yellow,power line down
+30,12TH AVE NW AND NW 70TH W ST,red,power line down
+31,12TH AVE S AND DEAD END 3 ,red,road blockage
+32,15TH AVE SW AND SW ALASKA ST,yellow,partial building collapse
+33,SW OREGON ST AND DEAD END 2,yellow,fire
+34,SW CAMBRIDGE ST AND DEAD END 4 ,red,road blockage
+35,20TH AVE NW AND NW 80TH ST,red,partial building collapse
+36,33RD AVE S AND S OREGON E ST,red,fire
+37,5TH AVE NW AND NW 43RD ST,yellow,partial building collapse
+38,ANN ARBOR AVE NE AND PURDUE AVE NE,red,building collapse
+39,CYRUS AVE NW AND VIEW AVE NW,green,partial building collapse
+40,1ST AVE S AND S LUCILE ST,green,medical emergency
+41,59TH ER AVE SW AND SW HORTON ST,red,building collapse
+42,5th Av / Olive Way,green,power line down
+43,PALMER CT NW AND DEAD END,green,building collapse
+44,37TH AVE W AND W TILDEN ST,yellow,building collapse
+45,51ST PL S AND S SPENCER ST,yellow,partial building collapse
+46,31ST AVE W AND W JAMESON W ST,red,partial building collapse
+47,22nd Av S / S Hill St,yellow,fire
+48,15th Av E / E Prospect St,yellow,fire
+49,S Albro Pl / Corgiat Dr S,green,road blockage
+50,3rd Av / Marion St,red,partial building collapse
+51,42ND AVE SW AND SW ATLANTIC E ST,yellow,fire
+52,1ST AVE S AND S RIVER ST,red,power line down
+53,34TH AVE SW AND SW HOLLY ST,red,power line down
+54,47TH AVE SW AND SW FONTANELLE ST,yellow,fire
+55,12TH AVE NE AND NE 71ST ST,yellow,power line down
+56,21ST AVE NE AND NE 81ST PL,red,medical emergency
+57,4th Av S / S Forest St,yellow,fire
+58,7th Av Nw / Nw 100th Pl,yellow,road blockage
+59,28TH AVE W AND W ARMOUR ST,green,road blockage
+60,40TH AVE NE AND NE 145TH ST,green,partial building collapse
+61,51ST AVE NE AND NE 42ND ST,red,building collapse
+62,FAIRVIEW AVE N AND MERCER ST,green,power line down
+63,49TH AVE SW AND DEAD END 2,yellow,power line down
+64,18th Av / E Fir St,yellow,medical emergency
+65,CHIEF SEALTH TRL AND S HENDERSON ST,green,building collapse
+66,15th Av E / E Olin Pl,yellow,power line down
+67,15TH AVE S AND S WASHINGTON ST,yellow,road blockage
+68,58TH AVE S AND WATERS AVE S,yellow,building collapse
+69,17TH AVE NE AND NE 143RD ST,green,medical emergency
+70,EVANSTON AVE N AND N 145TH ST,red,power line down
+71,N 95th St / College Way N,red,partial building collapse
+72,S ROYAL BROUGHAM WAY / 6TH AV S,red,partial building collapse
+73,FAIRMOUNT AVE SW AND SW FOREST ST,yellow,medical emergency
+74,42nd Av Sw / Sw Alaska St,yellow,power line down
+75,34TH AVE W AND W RUFFNER ST,red,building collapse
+76,4th Av S / S Jackson St,red,fire
+77,4th Av S / S Jackson St,red,building collapse
+78,6th Av / Olive Way,green,road blockage
+79,12th Av S / S Jackson St,red,road blockage
+80,GARFIELD ST AND DEAD END 2,green,road blockage
+81,28TH AVE W AND W MCGRAW S ST,green,power line down
+82,44TH AVE NE AND NE 65TH ST,green,road blockage
+83,47TH AVE NE AND SAND POINT WAY NE,red,power line down
+84,12TH AVE NE AND NE 71ST ST,yellow,partial building collapse
+85,14TH AVE NW AND NW 95TH ST,yellow,power line down
+86,Boylston Av / E Pine St,yellow,road blockage
+87,4TH AVE W AND W GARFIELD ST,red,medical emergency
+88,34TH AVE SW AND SW HOLLY ST,yellow,road blockage
+89,37TH AVE S AND S TRENTON ST,green,road blockage
+90,MIDVALE AVE N AND N 40TH ST,red,power line down
+91,HUGHES AVE SW AND DEAD END,yellow,road blockage
+92,49TH AVE SW AND DEAD END 2,green,road blockage
+93,MERIDIAN PL N AND DEAD END,green,medical emergency
+94,19TH AVE S AND S MAIN ST,red,power line down
+95,47TH AVE SW AND SW FONTANELLE ST,green,road blockage
+96,13TH AVE E AND E JOHN ST,red,partial building collapse
+97,5th Av S / S Orcas St,red,road blockage
+98,Latona Av Ne / Ne Pacific St,red,partial building collapse
+99,11TH AVE NE AND NE 52ND ST,green,power line down
+100,RADFORD AVE NW AND NW BLUE RIDGE DR,yellow,road blockage
+101,22nd Av S / S Hill St,red,medical emergency
+102,45TH AVE SW AND SW DAWSON ST,red,building collapse
+103,37TH AVE SW AND SW 100TH ST,red,medical emergency
+104,47TH AVE NE AND SAND POINT WAY NE,red,building collapse
+105,45TH AVE SW AND SW DAWSON ST,green,power line down
+106,1ST AVE S AND S RIVER ST,green,power line down
+107,Rainier Av S / S Walker St,red,power line down
+108,Sw Barton St / 26th Av Sw,green,medical emergency
+109,Ne 70th St / Roosevelt Way Ne,red,medical emergency
+110,1st Av S / S Horton St,green,medical emergency
+111,14TH AVE NW AND NW 58TH ST,green,power line down
+112,WALLINGFORD AVE N AND N 103RD ST,green,partial building collapse
+113,15TH AVE W AND GILMAN DR W,yellow,power line down
+114,38TH AVE S AND S OREGON ST,green,fire
+115,28TH AVE W AND W ARMOUR ST,green,road blockage
+116,Aurora Av N / N Northgate Way,green,building collapse
+117,1ST AV S / S MAIN ST,red,fire
+118,TAYLOR AVE N AND DEAD END,yellow,medical emergency
+119,California Av Sw / Sw Beveridge Pl,red,fire
+120,47TH AVE SW AND SW FONTANELLE ST,red,fire
+121,HUGHES AVE SW AND DEAD END,red,road blockage
+122,12th Av S / S Jackson St,red,building collapse
+123,32nd Av E / E Madison St,yellow,power line down
+124,COLORADO AVE S AND S HANFORD ST,green,medical emergency
+125,23RD AVE NE AND NE 127TH ST,green,medical emergency
+126,West Marginal Way Sw / Highland Park Way Sw,green,building collapse
+127,16TH AVE S AND S ATLANTIC ST,green,medical emergency
+128,17th Av Nw / Nw Market St,green,partial building collapse
+129,11TH AVE NE AND NE 52ND ST,red,partial building collapse
+130,36TH AVE SW AND SW HUDSON ST,red,road blockage
+131,7TH AV / JAMES ST,red,partial building collapse
+132,44TH AVE NE AND NE 65TH ST,green,medical emergency
+133,21ST AVE E AND E HIGHLAND DR,yellow,power line down
+134,NE 127TH ST / 15TH AV NE,yellow,fire
+135,Terry Av / James St,red,road blockage
+136,38TH AVE SW AND SW BARTON E ST,yellow,road blockage
+137,S ROYAL BROUGHAM WAY / 6TH AV S,yellow,fire
+138,ALKI AVE SW AND SW RHODE ISLAND ST,red,power line down
+139,Madison St / 4th Av,red,road blockage
+140,S Thistle St / 8th Av S,red,power line down
+141,36TH AVE SW AND SW HUDSON ST,yellow,road blockage
+142,11TH AVE NE AND NE 52ND ST,red,power line down
+143,CLOVERDALE ST OFF RP AND S CLOVERDALE ST,green,road blockage
+144,JONES AVE NW AND NW 83RD ST,green,power line down
+145,Airport Way S / S Royal Brougham Way,red,fire
+146,Pine St / 2nd Av,green,fire
+147,M L KING JR ER WAY S AND RENTON N AVE S,green,partial building collapse
+148,15TH AVE S AND S FOREST ST,green,building collapse
+149,Pike St / 3rd Av,green,fire
+150,Denny Way / Eastlake Av,red,fire
+151,SYLVAN LN SW AND SW MYRTLE ST,green,partial building collapse
+152,37TH AVE SW AND SW 100TH ST,yellow,medical emergency
+153,1ST AVE N AND PROSPECT N ST,red,power line down
+154,S Jackson St / 16th Av S,red,medical emergency
+155,3RD AVE AND YESLER WAY,yellow,power line down
+156,HUGHES AVE SW AND DEAD END,red,fire
+157,1ST AVE S AND RAILROAD N WAY S,yellow,road blockage
+158,38TH AVE E AND E MCGRAW ST,red,building collapse
+159,42ND AVE SW AND SW GRAHAM ST,green,road blockage
+160,4TH AVE N AND NEWELL ST,green,road blockage
+161,4th Av Stair To Yesler Way / Terrace St,green,medical emergency
+162,E COLUMBIA ST AND DEAD END 3,green,partial building collapse
+163,12th Av / E Union St,yellow,partial building collapse
+164,11TH AVE NE AND NE 52ND ST,yellow,building collapse
+165,35TH AVE AND DEAD END,yellow,road blockage
+166,30TH AVE NE AND NE 57TH ST,red,road blockage
+167,E Garfield St / 15th Av E,yellow,partial building collapse
+168,SW OREGON ST AND DEAD END 2,red,building collapse
+169,49TH AVE SW AND SW BRANDON ST,green,building collapse
+170,6th Av / Olive Way,red,fire
+171,Ashworth Av N / N 80th St,red,partial building collapse
+172,QUEEN ANNE AV N / W JOHN ST,green,partial building collapse
+173,Pike St / Minor Av,green,medical emergency
+174,44TH AVE NE AND NE 65TH ST,red,road blockage
+175,15th Av E / E Olin Pl,green,medical emergency
+176,CALIFORNIA AVE SW AND SW HILL ST,red,building collapse
+177,S GAZELLE ST AND DEAD END,green,medical emergency
+178,22nd Av S / S Jackson St,yellow,power line down
+179,27TH AVE SW AND SW THISTLE ST,green,fire
+180,22nd Av S / S Hill St,green,fire
+181,AURORA AVE N AND PROSPECT ST,yellow,partial building collapse
+182,51ST AVE NE AND NE 42ND ST,yellow,fire
+183,6th Av / Olive Way,yellow,medical emergency
+184,24TH AVE S AND DEAD END 4,green,power line down
+185,ROOSEVELT WAY NE AND NE 125TH S ST,green,building collapse
+186,M L KING JR WR WAY S AND S HOLLY PARK DR ,yellow,fire
+187,57TH AVE NE AND NE 65TH W ST,red,fire
+188,5th Av N / Thomas St,green,building collapse
+189,1st Av S / East Marginal Way S,yellow,road blockage
+190,36TH AVE NW AND NW 62ND ST,yellow,road blockage
+191,WALLINGFORD AVE N AND N 103RD ST,yellow,partial building collapse
+192,6TH AVE S AND S HORTON ST,green,medical emergency
+193,10th Av / E Jefferson St,green,partial building collapse
+194,15TH AVE S AND S WASHINGTON ST,green,partial building collapse
+195,M L KING JR ER WAY S AND MERTON WAY S,yellow,medical emergency
+196,RAYE ST AND WARREN AVE N,red,power line down
+197,2ND AVE NW AND NW 45TH E ST,green,medical emergency
+198,37TH AVE SW AND SW RAYMOND ST,green,road blockage
+199,6th Av / Olive Way,green,power line down
+200,Airport Way S / S Royal Brougham Way,red,partial building collapse
+201,FREMONT AVE N AND N 83RD ST,green,fire
+202,N 81st St / Greenwood Av N,yellow,medical emergency
+203,MID CHANNEL AND MOUNTAINS TO SOUND TRL,red,power line down
+204,8TH AVE NW AND NW 48TH ST,green,medical emergency
+205,47TH AVE NE AND SAND POINT WAY NE,red,power line down
+206,12TH AVE S AND BOREN AVE S,red,fire
+207,6th Av / Olive Way,green,power line down
+208,7th Av S / S Weller St,yellow,medical emergency
+209,19TH AVE NE AND NE 85TH ST,green,medical emergency
+210,OAKHURST RD S AND S OAKHURST PL,green,medical emergency
+211,17th Av Nw / Nw Market St,yellow,building collapse
+212,S ROYAL BROUGHAM WAY / 6TH AV S,yellow,medical emergency
+213,13TH AVE AND E REMINGTON CT,green,fire
+214,ALKI AVE SW AND SW RHODE ISLAND ST,red,building collapse
+215,4th Av S / S Forest St,red,medical emergency
+216,Meridian Av N / East Green Lake Dr N,yellow,fire
+217,MCGRAW ST AND NOB HILL AVE N,red,road blockage
+218,Sw Barton St / 26th Av Sw,yellow,power line down
+219,47TH AVE SW AND SW HANFORD ST,yellow,partial building collapse
+220,Alki Av Sw / 62nd Av Sw,red,partial building collapse
+221,14TH AVE S AND S ATLANTIC ST,green,medical emergency
+222,17TH NB AVE NE AND NE 56TH ST,red,building collapse
+223,Montlake Blvd Ne / Ne Pacific Pl,red,partial building collapse
+224,Sw Genesee St / Sw Avalon Way,green,partial building collapse
+225,2nd Av / Yesler Way,red,power line down
+226,42ND AVE SW AND SW THISTLE ST,red,road blockage
+227,37TH AVE SW AND SW 100TH ST,red,fire
+228,CLOVERDALE ST OFF RP AND S CLOVERDALE ST,red,partial building collapse
+229,N 95th St / College Way N,red,power line down
+230,27TH AVE NE AND NE 85TH ST,red,building collapse
+231,12th Av S / S Jackson St,yellow,building collapse
+232,1st Av Nw / N 85th St,yellow,fire
+233,38TH AVE E AND E MCGRAW ST,green,medical emergency
+234,Pine St / 2nd Av,yellow,building collapse
+235,M L KING JR ER WAY S AND RENTON N AVE S,green,building collapse
+236,4th Av / Cherry St,yellow,power line down
+237,15TH AVE NE AND NE 52ND ST,red,partial building collapse
+238,WALLINGFORD AVE N AND N 100TH W ST,green,medical emergency
+239,Broadway E / E John St,yellow,medical emergency
+240,3rd Av / Pine St,red,road blockage
+241,47TH AVE SW AND SW FONTANELLE ST,green,road blockage
+242,E COLUMBIA ST AND DEAD END 3,yellow,power line down
+243,15TH AVE NE AND NE 41ST ST,red,power line down
+244,1ST AVE S AND S RIVER ST,green,medical emergency
+245,2nd Av / Yesler Way,red,road blockage
+246,ANN ARBOR AVE NE AND PURDUE AVE NE,green,building collapse
+247,1st Av / Virginia St,green,building collapse
+248,12TH AVE NW AND NW 125TH ST,yellow,power line down
+249,4TH AVE NE AND NE 42ND W ST,yellow,power line down
+250,51ST AVE S AND S MAYFLOWER ST,red,medical emergency
+251,15th Av Nw / Nw 75th St,yellow,power line down
+252,TRITON DR NW AND NW BLUE RIDGE DR,yellow,partial building collapse
+253,N NORTHLAKE PL AND DEAD END,red,medical emergency
+254,ASHWORTH AVE N AND N 80TH ST,red,power line down
+255,COLORADO AVE S AND S HANFORD ST,green,fire
+256,6TH AVE S AND S HORTON ST,green,building collapse
+257,N 100th St / Aurora Av N,red,road blockage
+258,S GAZELLE ST AND DEAD END,green,medical emergency
+259,14th Av / E Howell St,green,building collapse
+260,Boylston Av / E Pine St,yellow,partial building collapse
+261,42ND AVE S AND S BRANDON ST,yellow,medical emergency
+262,3rd Av / Marion St,green,road blockage
+263,SW HINDS ST AND DEAD END 4,green,road blockage
+264,1st Av S / East Marginal Way S,yellow,power line down
+265,38TH AVE NE AND NE 73RD PL,green,power line down
+266,7th Av S / S Lane St,red,fire
+267,Boylston Av / E Pine St,green,medical emergency
+268,E Pine St / Boylston Av,yellow,building collapse
+269,QUEEN ANNE AV N / W JOHN ST,red,power line down
+270,6th Av / Olive Way,yellow,medical emergency
+271,10TH AVE NW AND NW 70TH W ST,yellow,power line down
+272,ASHWORTH AVE N AND N 80TH ST,yellow,building collapse
+273,16TH AVE E AND E GALER ST,red,road blockage
+274,3rd Av / Pine St,red,partial building collapse
+275,14TH AVE NW AND NW 75TH W ST,green,road blockage
+276,ROOSEVELT WAY NE AND NE 125TH S ST,yellow,medical emergency
+277,36TH AVE SW AND SW OTHELLO S ST,yellow,building collapse
+278,FERRY AVE SW AND SW WALKER ST,green,building collapse
+279,32nd Av E / E Madison St,yellow,partial building collapse
+280,3rd Av / Lenora St,green,fire
+281,15th Av Ne / Ne 125th St,yellow,power line down
+282,PHINNEY AVE N AND N 52ND ST,green,medical emergency
+283,21ST AVE E AND E PROSPECT ST,green,medical emergency
+284,21ST AVE S AND RAINIER S AVE S,red,road blockage
+285,I5 SB COLLECTOR AND I90 WB ON RP,red,fire
+286,3rd Av / Pine St,red,partial building collapse
+287,ALKI AVE SW AND SW RHODE ISLAND ST,red,partial building collapse
+288,15th Av Ne / Ne 125th St,green,fire
+289,35TH AVE S AND DEAD END 8,red,power line down
+290,8TH AVE NW AND NW 125TH ST,yellow,power line down
+291,E Pike St / Harvard Av,green,road blockage
+292,33RD AVE AND E PIKE ST,green,partial building collapse
+293,S Albro Pl / Corgiat Dr S,green,road blockage
+294,5th Av / Pike St,green,partial building collapse
+295,23RD AVE NE AND NE 127TH ST,yellow,road blockage
+296,22nd Av S / S Jackson St,green,partial building collapse
+297,37TH AVE SW AND SW 100TH ST,green,road blockage
+298,28TH AVE W AND W ARMOUR ST,red,medical emergency
+299,22ND AVE NE AND NE 63RD ST,yellow,medical emergency
+300,32ND AVE SW AND SW 110TH ST,red,partial building collapse
+301,ASHWORTH AVE N AND N 80TH ST,red,power line down
+302,11th Av Nw / Nw 45th St,red,medical emergency
+303,4TH AVE S AND S FONTANELLE ST,yellow,partial building collapse
+304,4th Av S / East Marginal Way S,yellow,power line down
+305,47TH AVE S AND CITY LIMITS,red,fire
+306,UTAH AVE S AND S MASSACHUSETTS ST,red,partial building collapse
+307,3RD AVE S AND DEAD END 2 ,yellow,power line down
+308,14TH AVE S AND GOLF DR S,yellow,power line down
+309,8TH AVE NW AND NW 48TH ST,green,fire
+310,12TH AVE S AND BOREN AVE S,red,fire
+311,30TH WR AVE NW AND NW 54TH ST,red,fire
+312,5th Av Ne / Ne Northgate Way,red,power line down
+313,S Jackson St / 16th Av S,yellow,medical emergency
+314,34th Av S / S Charlestown St,yellow,partial building collapse
+315,7TH AV / JAMES ST,yellow,partial building collapse
+316,57TH AVE S AND S NORFOLK ST,yellow,partial building collapse
+317,34TH AVE E AND E JOHN ST,red,medical emergency
+318,M L KING JR ER WAY S AND MERTON WAY S,yellow,building collapse
+319,17TH AVE NE AND NE 143RD ST,yellow,medical emergency
+320,24TH AVE S AND DEAD END 1,red,road blockage
+321,Westlake Av N / John St,red,road blockage
+322,OCCIDENTAL AVE S AND S JACKSON ST,yellow,fire
+323,19TH AVE S AND S MAIN ST,red,road blockage
+324,BEACON WR AVE S AND S KENYON ST,yellow,building collapse
+325,15th Av Ne / Ne 125th St,yellow,road blockage
+326,12th Av S / S Jackson St,green,building collapse
+327,5th Av N / Thomas St,green,building collapse
+328,27TH AVE SW AND SW THISTLE ST,yellow,partial building collapse
+329,Minor Av / Stewart St,red,road blockage
+330,Ashworth Av N / N 80th St,red,power line down
+331,21ST AVE E AND E HIGHLAND DR,green,partial building collapse
+332,Boylston Av / E Pine St,red,partial building collapse
+333,12TH AVE S AND DEAD END 3 ,red,building collapse
+334,5th Av N / Thomas St,red,power line down
+335,42ND AVE SW AND SW GRAHAM ST,yellow,power line down
+336,3rd Av / Pine St,red,building collapse
+337,42nd Av S / S Myrtle St,green,medical emergency
+338,FREMONT AVE N AND N 70TH ST,green,power line down
+339,N 105th St / Meridian Av N,red,fire
+340,CYRUS AVE NW AND VIEW AVE NW,red,fire
+341,S Albro Pl / Corgiat Dr S,red,building collapse
+342,4th Av S / S Jackson St,green,fire
+343,3RD AVE AND YESLER WAY,yellow,power line down
+344,N 95th St / College Way N,yellow,road blockage
+345,3RD AV S / S STACY ST,red,building collapse
+346,36th Av Ne / Ne 57th St,green,road blockage
+347,32ND AVE S AND S DAY ST,red,medical emergency
+348,41ST AVE NE AND NE 98TH ST,yellow,road blockage
+349,EVANSTON AVE N AND N 145TH ST,green,road blockage
+350,34TH AVE SW AND SW HOLLY ST,yellow,partial building collapse
+351,16TH AVE S AND S ATLANTIC ST,green,partial building collapse
+352,Ne 70th St / Roosevelt Way Ne,green,medical emergency
+353,8TH AVE NW AND NW 48TH ST,green,road blockage
+354,32ND AVE SW AND SW 110TH ST,red,fire
+355,47TH AVE NE AND SAND POINT WAY NE,red,partial building collapse
+356,Minor Av / Stewart St,red,medical emergency
+357,14TH AVE S AND GOLF DR S,green,road blockage
+358,15TH AVE AND E PINE ST,yellow,fire
+359,S King St / 7th Av S,yellow,building collapse
+360,13th Av / E Pine St,red,medical emergency
+361,CALIFORNIA AVE SW AND SW HILL ST,yellow,building collapse
+362,BEACH DR SW AND DEAD END,yellow,building collapse
+363,34th Av S / S Charlestown St,green,power line down
+364,42ND AVE S AND S BRANDON ST,green,building collapse
+365,15TH AVE SW AND DEAD END 6,green,road blockage
+366,18th Av / E Fir St,red,partial building collapse
+367,HARVARD AVE E AND E REPUBLICAN ST,yellow,partial building collapse
+368,MCGRAW ST AND NOB HILL AVE N,green,fire
+369,2nd Av / Yesler Way,yellow,building collapse
+370,Nw 58th St / 22nd Av Nw,yellow,road blockage
+371,Virginia St / Western Av,yellow,fire
+372,E COLUMBIA ST AND DEAD END 3,red,fire
+373,Rainier Av S / S Holly St,yellow,partial building collapse
+374,2nd Av / Yesler Way,yellow,building collapse
+375,21ST AVE S AND S LANDER S ST,green,power line down
+376,15TH AVE W AND GILMAN DR W,green,fire
+377,3rd Av / Lenora St,yellow,medical emergency
+378,E Garfield St / 15th Av E,green,fire
+379,35TH AVE AND DEAD END,green,medical emergency
+380,ELLINOR DR W AND W PARKMONT PL,green,building collapse
+381,8TH AVE NW AND NW 48TH ST,red,fire
+382,14TH AVE NW AND NW 75TH W ST,yellow,medical emergency
+383,4th Av / Cherry St,yellow,fire
+384,3rd Av / Lenora St,green,building collapse
+385,RADFORD AVE NW AND NW BLUE RIDGE DR,green,building collapse
+386,14th Av / E Howell St,yellow,building collapse
+387,S Thistle St / 8th Av S,green,partial building collapse
+388,Denny Way / Eastlake Av,green,road blockage
+389,21ST AVE S AND COLUMBIA DR S,yellow,building collapse
+390,58TH AVE S AND WATERS AVE S,red,medical emergency
+391,27TH AVE NE AND NE 97TH ST,yellow,partial building collapse
+392,Rainier Av S / S Holly St,yellow,partial building collapse
+393,3rd Av / Pine St,red,fire
+394,22nd Av S / S Hill St,yellow,road blockage
+395,Marion St / 3rd Av,yellow,partial building collapse
+396,West Marginal Way Sw / Highland Park Way Sw,yellow,medical emergency
+397,36TH AVE NW AND NW 62ND ST,green,road blockage
+398,OAKHURST RD S AND S OAKHURST PL,red,fire
+399,JONES AVE NW AND NW 83RD ST,yellow,building collapse
+400,S ALBRO PL AND S EDDY ST,green,building collapse
+401,Woodland Park Av N / N 36th St,green,partial building collapse
+402,1ST AVE S AND S LUCILE ST,yellow,road blockage
+403,4th Av / Pine St,red,fire
+404,20TH AVE NE AND NE 50TH ST,yellow,power line down
+405,W SEATTLE BR - I5 SB RP AND WEST SEATTLE BR EB,red,partial building collapse
+406,21ST AVE E AND E PROSPECT ST,yellow,medical emergency
+407,17TH AVE S AND S SPOKANE ST,yellow,medical emergency
+408,47TH AVE SW AND SW HANFORD ST,yellow,fire
+409,Pine St / 2nd Av,green,building collapse
+410,32ND AVE W AND W BERTONA ST,red,building collapse
+411,Madison St / Boren Av,red,medical emergency
+412,38TH AVE NE AND NE 100TH ST,yellow,medical emergency
+413,4th Av / Pine St,yellow,road blockage
+414,20th Av Nw / Nw 57th St,yellow,power line down
+415,24TH S AVE NW AND NW 95TH S ST,green,medical emergency
+416,RAVENNA AVE NE AND NE 54TH E ST,green,road blockage
+417,20th Av Nw / Nw 57th St,green,partial building collapse
+418,3rd Av / Yesler Way,yellow,building collapse
+419,11TH AVE W AND W BERTONA ST,yellow,partial building collapse
+420,Ne 65th St / Roosevelt Way Ne,green,building collapse
+421,3rd Av / Union St,green,power line down
+422,TAYLOR AVE N AND DEAD END,green,fire
+423,7th Av S / S Lane St,green,road blockage
+424,NE 65TH ST AND NE PRINCETON W WAY,green,fire
+425,4th Av S / S Dawson St,yellow,power line down
+426,14th Av S / S Plum St,yellow,building collapse
+427,Sw Genesee St / Sw Avalon Way,yellow,medical emergency
+428,4TH AV / PINE ST,green,medical emergency
+429,Montlake Blvd Ne / Ne Pacific St,red,partial building collapse
+430,12th Av S / S Jackson St,green,road blockage
+431,MID CHANNEL AND MOUNTAINS TO SOUND TRL,yellow,building collapse
+432,Boylston Av / E Pine St,yellow,power line down
+433,S King St / 7th Av S,yellow,road blockage
+434,Nw Blue Ridge Dr / Bedford Ct Nw,yellow,medical emergency
+435,TAYLOR AVE N AND DEAD END,yellow,road blockage
+436,38TH AVE S AND S SPOKANE ST,green,road blockage
+437,6th Av / Olive Way,yellow,building collapse
+438,S King St / 7th Av S,yellow,road blockage
+439,42ND AVE SW AND SW GRAHAM ST,red,building collapse
+440,QUEEN ANNE AV N / W JOHN ST,yellow,road blockage
+441,4th Av / Pine St,green,road blockage
+442,49TH AVE S AND S SNOQUALMIE ST,green,partial building collapse
+443,GREENWOOD AVE N AND N 144TH ST,yellow,fire
+444,32ND AVE W AND W BARRETT ST,green,power line down
+445,2ND AVE AND SPRING ST,yellow,building collapse
+446,URSULA PL S AND DEAD END N,green,partial building collapse
+447,45TH AVE S AND S SHELL ST,green,road blockage
+448,Utah Av S / S Horton St,yellow,medical emergency
+449,8TH AVE NW AND NW 48TH ST,green,road blockage
+450,44TH AVE NE AND NE 65TH ST,green,building collapse
+451,FAUNTLEROY WAY SW AND SW WILDWOOD PL,yellow,partial building collapse
+452,45TH AVE W AND W CRAMER ST,yellow,road blockage
+453,WOODLAND PARK AVE N AND N 50TH ST,yellow,road blockage
+454,M L KING JR ER WAY S AND RENTON N AVE S,yellow,medical emergency
+455,35th Av Ne / Ne 130th St,yellow,medical emergency
+456,Rainier Av S / S Juneau St,yellow,medical emergency
+457,4th Av S / Diagonal Av S,green,building collapse
+458,27TH AVE AND E HOWELL ST,red,fire
+459,4th Av / Columbia St,red,fire
+460,22nd Av S / S Hill St,green,partial building collapse
+461,3rd Av / Union St,red,power line down
+462,FREMONT AVE N AND N 97TH ST,green,power line down
+463,5th Av / Olive Way,yellow,medical emergency
+464,ASHWORTH AVE N AND N 55TH ST,red,fire
+465,11TH AVE NE AND NE 42ND ST,red,building collapse
+466,37TH AVE SW AND DEAD END 2 ,yellow,building collapse
+467,SAND POINT ER WAY NE AND NE 125TH ST,red,building collapse
+468,11TH AVE W AND W BERTONA ST,yellow,building collapse
+469,Harbor Av Sw / Fairmount Av Sw,green,road blockage
+470,11TH AVE NE AND NE 52ND ST,yellow,fire
+471,24TH AVE S AND DEAD END 1,yellow,medical emergency
+472,19TH AVE NE AND NE BROCKMAN PL,red,power line down
+473,3rd Av / Lenora St,yellow,road blockage
+474,Pike St / 3rd Av,yellow,fire
+475,Latona Av Ne / Ne Pacific St,yellow,building collapse
+476,4th Av S / S Dawson St,yellow,partial building collapse
+477,4th Av Stair To Yesler Way / Terrace St,yellow,building collapse
+478,4th Av / Madison St,red,partial building collapse
+479,17TH AVE NE AND NE 143RD ST,red,fire
+480,49TH AVE S AND S ANGELINE ST,green,building collapse
+481,15th Av Nw / Nw 75th St,green,medical emergency
+482,11TH AVE NE AND NE 42ND ST,red,road blockage
+483,TERRACE ST AND DEAD END 1,yellow,road blockage
+484,7th Av S / S Weller St,red,partial building collapse
+485,25TH AVE E AND E LYNN E ST,green,road blockage
+486,44TH AVE S AND S MYRTLE ST,green,fire
+487,W DENNY WAY / WESTERN AV W,yellow,road blockage
+488,RAVENNA AVE NE AND NE 54TH E ST,yellow,partial building collapse
+489,30TH WR AVE NW AND NW 54TH ST,green,partial building collapse
+490,63RD AVE NE AND NE 74TH ST,red,building collapse
+491,ALKI TRL AND HARBOR AVE SW,green,medical emergency
+492,12TH AVE AND E SPRUCE ST,yellow,building collapse
+493,12th Av S / S Weller St,yellow,road blockage
+494,8TH AVE NW AND NW 48TH ST,red,power line down
+495,N NORTHLAKE PL AND DEAD END,red,medical emergency
+496,Sw Genesee St / Sw Avalon Way,green,road blockage
+497,3rd Av / Lenora St,red,road blockage
+498,AIRPORT WAY S AND S HOLGATE S ST,yellow,partial building collapse
+499,38TH AVE S AND S CLOVERDALE ST,green,fire
